@@ -1,0 +1,22 @@
+[
+    {
+        "id": 0,
+        "brand": {
+            "name": "Volvo",
+            "id": 0
+        },
+        "model": "S90",
+        "date": 2012,
+        "description": "uiug oihfefh gergrehreh"
+    },
+        {
+        "id": 1,
+        "brand": {
+            "name": "BMW",
+            "id": 1
+        },
+        "model": "X6",
+         "date": 2012,
+        "description": "uiug oihfefh gergrehreh"
+    }
+]
